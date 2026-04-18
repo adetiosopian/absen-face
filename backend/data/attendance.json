@@ -1,0 +1,62 @@
+[
+  {
+    "id": "da177bcd643b4caca32e872864b2297f",
+    "nim": "B421240002",
+    "name": "tio",
+    "type": "masuk",
+    "status": "hadir",
+    "timestamp": "2026-04-13T17:37:20.423389",
+    "date": "2026-04-13",
+    "time": "17:37:20"
+  },
+  {
+    "id": "ad4302f1834f4c3180a38389a98fe73c",
+    "nim": "B421240002",
+    "name": "tio",
+    "type": "pulang",
+    "status": "hadir",
+    "timestamp": "2026-04-13T17:37:50.664028",
+    "date": "2026-04-13",
+    "time": "17:37:50"
+  },
+  {
+    "id": "715a700068424af2ad9396158dfaa807",
+    "nim": "3432764732",
+    "name": "farsya",
+    "type": "masuk",
+    "status": "hadir",
+    "timestamp": "2026-04-15T09:04:15.341265",
+    "date": "2026-04-15",
+    "time": "09:04:15"
+  },
+  {
+    "id": "8a965a252289431481e9d59aac35d8f6",
+    "nim": "B432",
+    "name": "Adam",
+    "type": "masuk",
+    "status": "hadir",
+    "timestamp": "2026-04-15T10:54:07.675993",
+    "date": "2026-04-15",
+    "time": "10:54:07"
+  },
+  {
+    "id": "bcdc9244ba384e88aaca6f8562ec30bf",
+    "nim": "B432",
+    "name": "Adam",
+    "type": "pulang",
+    "status": "hadir",
+    "timestamp": "2026-04-15T10:55:24.883562",
+    "date": "2026-04-15",
+    "time": "10:55:24"
+  },
+  {
+    "id": "b254ce6e87b74b9488ddc912cade6bbe",
+    "nim": "21223",
+    "name": "rey",
+    "type": "masuk",
+    "status": "hadir",
+    "timestamp": "2026-04-15T10:56:13.225028",
+    "date": "2026-04-15",
+    "time": "10:56:13"
+  }
+]
